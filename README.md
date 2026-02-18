@@ -1,6 +1,6 @@
 
 # Works and Publications
-Publications and collaborations relevant to emerging technology policy and governance. 
+Publications, projects, and collaborations relevant to emerging technology policy and governance. 
 
 
 ## Public Comments
