@@ -9,9 +9,6 @@ Publications, projects, and collaborations relevant to emerging technology polic
 Regarding the Regulation of “Deepfakes” in Campaign
 Communications, 2023](https://drive.google.com/file/d/1uYSQgzVTi12YyoI_1Ps7Z1vjapWXECM4/view)
 
-## Research
-- [AI Risk Assessment Model](research/ai-risk.pdf)
-
 ## Articles
 - [Multi Stakeholder AI Governance: The International Institutions Shaping Tomorrow’s AI Regulatory Frameworks, 2023](https://portulansinstitute.org/multi-stakeholder-ai-governance/)
 -  [California Ballot Measures – MapLight Follows the Money, 2018](https://maplightarchive.org/story/california-ballot-measures-maplight-follows-the-money/)
